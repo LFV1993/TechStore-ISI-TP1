@@ -1,0 +1,20 @@
+# Ambientes virtuais Python
+.venv/
+venv/
+
+# Caches Python
+__pycache__/
+*.py[cod]
+.pytest_cache/
+
+# Credenciais
+.env
+.env.*
+
+# Registos e ficheiros temporários
+logs/
+*.log
+*.tmp
+~$*
+Thumbs.db
+.DS_Store

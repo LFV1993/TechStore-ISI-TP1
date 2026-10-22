@@ -1,0 +1,21 @@
+ordem;indicador;descricao;valor
+1;vendas_lidas;Vendas lidas do CSV;526
+2;produtos_lidos;Produtos lidos do JSON;30
+3;categorias_lidas;Categorias lidas do XML;5
+4;duplicados_removidos;Duplicados exatos removidos;8
+5;vendas_apos_deduplicacao;Vendas após remoção de duplicados;518
+6;codigos_normalizados;Códigos de produto normalizados;16
+7;rejeitadas_validacao;Vendas rejeitadas na validação;13
+8;rejeitadas_integracao;Vendas rejeitadas na integração;5
+9;rejeitadas_total;Total de vendas rejeitadas;18
+10;vendas_validas;Vendas válidas finais;500
+11;unidades_vendidas;Unidades vendidas;725
+12;produtos_vendidos;Produtos diferentes vendidos;30
+13;faturacao_total;Faturação total (EUR);69981.01
+14;rejeicoes_campo_vazio;Rejeições - Campo obrigatório vazio;3
+15;rejeicoes_codigo_invalido;Rejeições - Código de produto inválido;0
+16;rejeicoes_quantidade_invalida;Rejeições - Quantidade inválida;4
+17;rejeicoes_preco_invalido;Rejeições - Preço inválido;3
+18;rejeicoes_data_invalida;Rejeições - Data inválida;3
+19;rejeicoes_produto_inexistente;Rejeições - Produto inexistente;5
+20;rejeicoes_categoria_inexistente;Rejeições - Categoria inexistente;0

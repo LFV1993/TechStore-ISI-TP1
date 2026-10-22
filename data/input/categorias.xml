@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<categorias>
+  <categoria>
+    <codigo_categoria>CAT-01</codigo_categoria>
+    <nome_categoria>Computadores</nome_categoria>
+  </categoria>
+  <categoria>
+    <codigo_categoria>CAT-02</codigo_categoria>
+    <nome_categoria>Monitores</nome_categoria>
+  </categoria>
+  <categoria>
+    <codigo_categoria>CAT-03</codigo_categoria>
+    <nome_categoria>Periféricos</nome_categoria>
+  </categoria>
+  <categoria>
+    <codigo_categoria>CAT-04</codigo_categoria>
+    <nome_categoria>Armazenamento</nome_categoria>
+  </categoria>
+  <categoria>
+    <codigo_categoria>CAT-05</codigo_categoria>
+    <nome_categoria>Acessórios</nome_categoria>
+  </categoria>
+</categorias>

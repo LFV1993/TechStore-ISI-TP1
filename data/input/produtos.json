@@ -1,0 +1,152 @@
+[
+  {
+    "codigo_produto": "PRD-0001",
+    "nome_produto": "Portátil 14\" Intel Core i5 16GB",
+    "codigo_categoria": "CAT-01"
+  },
+  {
+    "codigo_produto": "PRD-0002",
+    "nome_produto": "Portátil 15,6\" AMD Ryzen 7 16GB",
+    "codigo_categoria": "CAT-01"
+  },
+  {
+    "codigo_produto": "PRD-0003",
+    "nome_produto": "Portátil Gaming 16\" RTX 4060",
+    "codigo_categoria": "CAT-01"
+  },
+  {
+    "codigo_produto": "PRD-0004",
+    "nome_produto": "Computador de Secretária Intel Core i5",
+    "codigo_categoria": "CAT-01"
+  },
+  {
+    "codigo_produto": "PRD-0005",
+    "nome_produto": "Mini PC AMD Ryzen 5",
+    "codigo_categoria": "CAT-01"
+  },
+  {
+    "codigo_produto": "PRD-0006",
+    "nome_produto": "Monitor 24\" Full HD IPS",
+    "codigo_categoria": "CAT-02"
+  },
+  {
+    "codigo_produto": "PRD-0007",
+    "nome_produto": "Monitor 27\" QHD IPS",
+    "codigo_categoria": "CAT-02"
+  },
+  {
+    "codigo_produto": "PRD-0008",
+    "nome_produto": "Monitor 27\" 4K UHD",
+    "codigo_categoria": "CAT-02"
+  },
+  {
+    "codigo_produto": "PRD-0009",
+    "nome_produto": "Monitor Curvo 34\" UltraWide",
+    "codigo_categoria": "CAT-02"
+  },
+  {
+    "codigo_produto": "PRD-0010",
+    "nome_produto": "Monitor Gaming 24\" 165Hz",
+    "codigo_categoria": "CAT-02"
+  },
+  {
+    "codigo_produto": "PRD-0011",
+    "nome_produto": "Teclado USB com Fios",
+    "codigo_categoria": "CAT-03"
+  },
+  {
+    "codigo_produto": "PRD-0012",
+    "nome_produto": "Teclado Mecânico RGB",
+    "codigo_categoria": "CAT-03"
+  },
+  {
+    "codigo_produto": "PRD-0013",
+    "nome_produto": "Conjunto Teclado e Rato Sem Fios",
+    "codigo_categoria": "CAT-03"
+  },
+  {
+    "codigo_produto": "PRD-0014",
+    "nome_produto": "Rato Ótico USB",
+    "codigo_categoria": "CAT-03"
+  },
+  {
+    "codigo_produto": "PRD-0015",
+    "nome_produto": "Rato Sem Fios Ergonómico",
+    "codigo_categoria": "CAT-03"
+  },
+  {
+    "codigo_produto": "PRD-0016",
+    "nome_produto": "Rato Gaming 16000 DPI",
+    "codigo_categoria": "CAT-03"
+  },
+  {
+    "codigo_produto": "PRD-0017",
+    "nome_produto": "Webcam Full HD 1080p",
+    "codigo_categoria": "CAT-03"
+  },
+  {
+    "codigo_produto": "PRD-0018",
+    "nome_produto": "Auscultadores com Microfone USB",
+    "codigo_categoria": "CAT-03"
+  },
+  {
+    "codigo_produto": "PRD-0019",
+    "nome_produto": "Auscultadores Bluetooth com Cancelamento de Ruído",
+    "codigo_categoria": "CAT-03"
+  },
+  {
+    "codigo_produto": "PRD-0020",
+    "nome_produto": "SSD SATA 500GB",
+    "codigo_categoria": "CAT-04"
+  },
+  {
+    "codigo_produto": "PRD-0021",
+    "nome_produto": "SSD NVMe 1TB",
+    "codigo_categoria": "CAT-04"
+  },
+  {
+    "codigo_produto": "PRD-0022",
+    "nome_produto": "SSD NVMe 2TB",
+    "codigo_categoria": "CAT-04"
+  },
+  {
+    "codigo_produto": "PRD-0023",
+    "nome_produto": "Disco Externo 1TB USB 3.0",
+    "codigo_categoria": "CAT-04"
+  },
+  {
+    "codigo_produto": "PRD-0024",
+    "nome_produto": "Disco Externo 2TB USB 3.0",
+    "codigo_categoria": "CAT-04"
+  },
+  {
+    "codigo_produto": "PRD-0025",
+    "nome_produto": "SSD Externo Portátil 1TB",
+    "codigo_categoria": "CAT-04"
+  },
+  {
+    "codigo_produto": "PRD-0026",
+    "nome_produto": "Mochila para Portátil 15,6\"",
+    "codigo_categoria": "CAT-05"
+  },
+  {
+    "codigo_produto": "PRD-0027",
+    "nome_produto": "Hub USB-C 7 em 1",
+    "codigo_categoria": "CAT-05"
+  },
+  {
+    "codigo_produto": "PRD-0028",
+    "nome_produto": "Base de Refrigeração para Portátil",
+    "codigo_categoria": "CAT-05"
+  },
+  {
+    "codigo_produto": "PRD-0029",
+    "nome_produto": "Tapete de Rato XL",
+    "codigo_categoria": "CAT-05"
+  },
+  {
+    "codigo_produto": "PRD-0030",
+    "nome_produto": "Cabo HDMI 2.1 2m",
+    "codigo_categoria": "CAT-05"
+  }
+]

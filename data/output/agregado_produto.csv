@@ -1,0 +1,31 @@
+codigo_produto;nome_produto;nome_categoria;n_vendas;unidades;faturacao
+PRD-0030;Cabo HDMI 2.1 2m;Acessórios;31;63;800.42
+PRD-0014;Rato Ótico USB;Periféricos;32;57;557.80
+PRD-0013;Conjunto Teclado e Rato Sem Fios;Periféricos;29;48;1903.23
+PRD-0015;Rato Sem Fios Ergonómico;Periféricos;29;43;1264.75
+PRD-0027;Hub USB-C 7 em 1;Acessórios;21;36;1228.48
+PRD-0029;Tapete de Rato XL;Acessórios;19;36;517.75
+PRD-0021;SSD NVMe 1TB;Armazenamento;28;35;2740.58
+PRD-0016;Rato Gaming 16000 DPI;Periféricos;23;34;1649.15
+PRD-0011;Teclado USB com Fios;Periféricos;23;33;653.70
+PRD-0023;Disco Externo 1TB USB 3.0;Armazenamento;24;32;1895.82
+PRD-0006;"Monitor 24"" Full HD IPS";Monitores;23;30;3793.12
+PRD-0020;SSD SATA 500GB;Armazenamento;21;30;1320.02
+PRD-0018;Auscultadores com Microfone USB;Periféricos;17;30;1031.29
+PRD-0017;Webcam Full HD 1080p;Periféricos;23;26;1284.91
+PRD-0026;"Mochila para Portátil 15,6""";Acessórios;18;25;989.50
+PRD-0025;SSD Externo Portátil 1TB;Armazenamento;15;21;2252.98
+PRD-0007;"Monitor 27"" QHD IPS";Monitores;16;19;4698.14
+PRD-0012;Teclado Mecânico RGB;Periféricos;13;17;1350.32
+PRD-0022;SSD NVMe 2TB;Armazenamento;12;16;2189.45
+PRD-0001;"Portátil 14"" Intel Core i5 16GB";Computadores;15;15;9702.55
+PRD-0024;Disco Externo 2TB USB 3.0;Armazenamento;11;14;1171.63
+PRD-0019;Auscultadores Bluetooth com Cancelamento de Ruído;Periféricos;13;13;1669.22
+PRD-0004;Computador de Secretária Intel Core i5;Computadores;8;12;7098.15
+PRD-0009;"Monitor Curvo 34"" UltraWide";Monitores;8;8;3502.20
+PRD-0008;"Monitor 27"" 4K UHD";Monitores;7;7;2634.05
+PRD-0002;"Portátil 15,6"" AMD Ryzen 7 16GB";Computadores;6;6;4924.20
+PRD-0005;Mini PC AMD Ryzen 5;Computadores;4;6;2354.10
+PRD-0028;Base de Refrigeração para Portátil;Acessórios;4;6;146.90
+PRD-0010;"Monitor Gaming 24"" 165Hz";Monitores;4;4;759.60
+PRD-0003;"Portátil Gaming 16"" RTX 4060";Computadores;3;3;3897.00

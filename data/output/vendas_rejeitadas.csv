@@ -1,0 +1,19 @@
+id_venda;data_venda;codigo_produto;codigo_normalizado;quantidade;preco_unitario;etapa;tipo_rejeicao;motivo_rejeicao
+V00510;2026-05-18;PRD-0006;PRD-0006;1;-129.90;validação;preco_invalido;Preço inválido: -129.90
+V00513;2026-02-30;PRD-0015;PRD-0015;1;29.90;validação;data_invalida;Data inválida: 2026-02-30
+V00507;2026-07-02;PRD-0024;PRD-0024;0;84.90;validação;quantidade_invalida;Quantidade inválida: 0
+V00518;2026-02-02;PRD-0020;PRD-0020;;44.90;validação;campo_vazio;Campo obrigatório vazio: quantidade
+V00514;2026-04-31;PRD-0022;PRD-0022;2;139.90;validação;data_invalida;Data inválida: 2026-04-31
+V00506;2026-02-03;PRD-0013;PRD-0013;0;39.90;validação;quantidade_invalida;Quantidade inválida: 0
+V00509;2026-08-21;PRD-0003;PRD-0003;0;1299.00;validação;quantidade_invalida;Quantidade inválida: 0
+V00508;2026-09-10;PRD-0030;PRD-0030;0;12.25;validação;quantidade_invalida;Quantidade inválida: 0
+V00515;2026-06-31;PRD-0004;PRD-0004;2;599.00;validação;data_invalida;Data inválida: 2026-06-31
+V00517;2026-06-24;;;2;14.90;validação;campo_vazio;Campo obrigatório vazio: codigo_produto
+V00511;2026-04-03;PRD-0010;PRD-0010;1;-189.90;validação;preco_invalido;Preço inválido: -189.90
+V00516;;PRD-0011;PRD-0011;1;17.91;validação;campo_vazio;Campo obrigatório vazio: data_venda
+V00512;2026-01-18;PRD-0002;PRD-0002;1;-849.00;validação;preco_invalido;Preço inválido: -849.00
+V00504;2026-07-07;PRD-0100;PRD-0100;1;129.90;integração;produto_inexistente;Produto inexistente: PRD-0100
+V00505;2026-01-23;PRD-0500;PRD-0500;1;34.90;integração;produto_inexistente;Produto inexistente: PRD-0500
+V00503;2026-06-16;PRD-0045;PRD-0045;2;9.90;integração;produto_inexistente;Produto inexistente: PRD-0045
+V00501;2026-03-21;PRD-9999;PRD-9999;2;12.90;integração;produto_inexistente;Produto inexistente: PRD-9999
+V00502;2026-03-02;PRD-0031;PRD-0031;1;249.90;integração;produto_inexistente;Produto inexistente: PRD-0031

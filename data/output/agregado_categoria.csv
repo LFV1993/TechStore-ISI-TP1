@@ -1,0 +1,6 @@
+codigo_categoria;nome_categoria;n_vendas;unidades;faturacao
+CAT-01;Computadores;36;42;27976.00
+CAT-02;Monitores;58;68;15387.11
+CAT-04;Armazenamento;111;148;11570.48
+CAT-03;Periféricos;202;301;11364.37
+CAT-05;Acessórios;93;166;3683.05
