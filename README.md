@@ -10,6 +10,10 @@
 
 O vídeo tem cerca de 5 minutos e mostra o ETL a funcionar, a carga no PostgreSQL, o dashboard e os alertas: [https://youtu.be/N6skA5iyNMo](https://youtu.be/N6skA5iyNMo)
 
+## Repositório GitHub
+
+O código e os restantes ficheiros do projeto estão em: [https://github.com/LFV1993/TechStore-ISI-TP1](https://github.com/LFV1993/TechStore-ISI-TP1)
+
 ## Objetivo
 
 A TechStore é uma loja fictícia de informática. Os dados das vendas estão em três ficheiros com formatos diferentes: vendas em CSV, produtos em JSON e categorias em XML. Também têm vários erros: duplicados, códigos mal escritos, campos vazios e datas inválidas.
